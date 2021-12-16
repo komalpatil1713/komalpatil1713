@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - Fun fact: ...
 -->
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=komalpatil1713)](https://github.com/komalpatil1713)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalpatil1713&layout=compact)](https://github.com/komalpatil1713)
