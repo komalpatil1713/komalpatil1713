@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://www.canva.com/design/DAEysAy_g3Q/Rmk8_6naFgXUkUtSIEeyzw/view?utm_content=DAEysAy_g3Q&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel" alt="my banner"></a>
+  <img src="https://www.canva.com/design/DAEysAy_g3Q/Rmk8_6naFgXUkUtSIEeyzw/view?utm_content=DAEysAy_g3Q&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel">
 </p>
 
 <h3 align="center">
