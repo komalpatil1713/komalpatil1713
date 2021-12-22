@@ -8,10 +8,14 @@ Hi there, I'm komal patil 👋
 </h3>
 
 <h2 align="center">
-I'm 💻 A Student, A Developer and An Artist!!!
+ 🧑‍🎓A Student | 💻 A Developer |👩‍🎨 An Artist
 </h2> 
-
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I'm currently pursuing my bachlors of engineering in computer science.
+I’m currently working on my website.
+- I’m looking for help for enhancing my skills.
+- feel free to contact
+- you can contact on : 📧 komalrpatil1713@gmail.com | www.linkedin.com/in/komal-patil-7553371a6 
+ 
 
 <!--
 **komalpatil1713/komalpatil1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
