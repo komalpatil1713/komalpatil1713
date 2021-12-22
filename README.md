@@ -10,11 +10,11 @@ Hi there, I'm komal patil 👋
 <h2 align="center">
  🧑‍🎓A Student | 💻 A Developer |👩‍🎨 An Artist
 </h2> 
-I'm currently pursuing my bachlors of engineering in computer science.
-I’m currently working on my website.
-- I’m looking for help for enhancing my skills.
-- feel free to contact
-- you can contact on : 📧 komalrpatil1713@gmail.com | www.linkedin.com/in/komal-patil-7553371a6 
+I'm currently pursuing my bachlors of engineering in computer science.<br>
+I’m currently working on my website.<br>
+I’m looking for help for enhancing my skills.<br>
+you can contact on : 📧 komalrpatil1713@gmail.com | www.linkedin.com/in/komal-patil-7553371a6 
+***feel free to contact***
  
 
 <!--
