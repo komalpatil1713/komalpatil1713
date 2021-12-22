@@ -12,7 +12,7 @@ Hi there, I'm komal patil 👋
 </h2> 
 I'm currently pursuing my bachelors of engineering in computer science.<br>
 I’m currently working on my website.<br>
-I’m looking for help for enhancing my skills.<br>
+I’m looking for help in enhancing my skills.<br>
 you can contact on : 📧 komalrpatil1713@gmail.com | www.linkedin.com/in/komal-patil-7553371a6 <br>
                                ***feel free to contact***
  
